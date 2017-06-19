@@ -33,6 +33,7 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 begin
   self.Caption:='Jest moc wielka i jeszcze wieksza';
+  Caption:='aaa';
 end;
 
 end.
