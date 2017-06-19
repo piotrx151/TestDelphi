@@ -31,7 +31,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  self.Caption:='Jest moc';
+  self.Caption:='Jest moc wielka';
 end;
 
 end.
