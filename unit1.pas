@@ -13,6 +13,7 @@ type
 
   TForm1 = class(TForm)
     Button1: TButton;
+    RadioButton1: TRadioButton;
     procedure Button1Click(Sender: TObject);
   private
     { private declarations }
